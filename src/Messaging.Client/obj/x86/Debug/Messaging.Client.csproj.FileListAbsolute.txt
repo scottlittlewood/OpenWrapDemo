@@ -1,0 +1,16 @@
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\Messaging.Client.exe
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\Messaging.Client.pdb
+C:\Code\OpenWrapDemo\src\Messaging.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\OpenWrapDemo\src\Messaging.Client\obj\x86\Debug\Messaging.Client.exe
+C:\Code\OpenWrapDemo\src\Messaging.Client\obj\x86\Debug\Messaging.Client.pdb
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\AutoPoco.dll
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\nunit.framework.dll
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\nunit.mocks.dll
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\OpenRasta.Testing.dll
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\pnunit.framework.dll
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\OpenRasta.Testing.pdb
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\nunit.framework.xml
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\Messaging.Client.exe.config
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\Moq.dll
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\OpenRasta.dll
+C:\Code\OpenWrapDemo\src\Messaging.Client\bin\Debug\OpenRasta.pdb

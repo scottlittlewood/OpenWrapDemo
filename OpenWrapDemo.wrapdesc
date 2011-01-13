@@ -1,0 +1,4 @@
+﻿name: OpenWrapDemo
+depends: openwrap anchored content
+depends: autopoco
+depends: openrasta-core

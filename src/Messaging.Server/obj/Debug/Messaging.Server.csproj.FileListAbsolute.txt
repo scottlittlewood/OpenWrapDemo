@@ -1,0 +1,15 @@
+C:\Code\OpenWrapDemo\src\Messaging.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\Messaging.Server.dll
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\Messaging.Server.pdb
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\AutoPoco.dll
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\Moq.dll
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\nunit.framework.dll
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\nunit.mocks.dll
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\OpenRasta.dll
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\OpenRasta.Testing.dll
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\pnunit.framework.dll
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\OpenRasta.pdb
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\OpenRasta.Testing.pdb
+C:\Code\OpenWrapDemo\src\Messaging.Server\bin\nunit.framework.xml
+C:\Code\OpenWrapDemo\src\Messaging.Server\obj\Debug\Messaging.Server.dll
+C:\Code\OpenWrapDemo\src\Messaging.Server\obj\Debug\Messaging.Server.pdb
