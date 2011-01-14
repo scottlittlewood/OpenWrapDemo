@@ -1,0 +1,25 @@
+	A sample project in development.
+
+Not working yet and very much an investigation/spike code example I'm hoping to build up over time.
+
+Frameworks:
+	OpenRasta
+	OpenWrap
+	AutoPoco
+	NHibernate
+
+Architechture:
+	Event Driven
+	Service Bus
+	Follow SOLID!
+	Castle Windsor for DI (Update OpenRasta to latest version!)
+	TDD - Drive the code from specification/requirements
+
+Components:
+	Messaging
+	Billing
+	Customer Notifications
+
+Client:
+Poll for events
+Process the ones they are interested in
